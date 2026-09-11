@@ -1,3 +1,7 @@
+mod error;
+mod ids;
+mod money;
+
 pub fn workspace_boots() -> bool {
     true
 }
